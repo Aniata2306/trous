@@ -4,7 +4,7 @@ blah
 blah
 blah
 blah
-Je m'appelle aniata
+Je m'appelle Blah.
 Hier soir, je suis allé au restaurant et j'y ai rencontré Obama.
 blah
 blah
@@ -18,7 +18,6 @@ blah
 blah
 En chemin, un gorille m'a cogné la tête avant de me voler mes bananes.
 Depuis, je ne sais plus coder qu'en WinDev
-blah
 blah
 blah
 blah
